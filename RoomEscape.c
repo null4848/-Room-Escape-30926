@@ -1,3 +1,9 @@
+/*
+개발자 : 노윤아, 이서연, 이승민
+개발일 : 2021.09.07
+문의 : seungmin0055@gmail.com
+*/ 
+
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
